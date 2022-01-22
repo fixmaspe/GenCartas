@@ -1,0 +1,39 @@
+body{
+    background-color: green;
+}
+
+.container{
+    width: 100%;
+
+}
+
+.card{
+    margin: auto;
+    padding: 4%;
+    width: 40%;
+    margin-top: 5%;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.top{
+    text-align: left;
+}
+
+.midel{
+    text-align: center;
+    font-size: 120px;
+    height: 250px;
+}
+
+.bottom{
+    text-align: right;
+}
+
+img{
+    width: 30%;
+}
+
+.reverse{
+    transform: rotate(-180deg);
+}
