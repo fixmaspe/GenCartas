@@ -1,1 +1,1 @@
-[![poker-2492083-960-720.jpg](https://i.postimg.cc/76NrpHy4/poker-2492083-960-720.jpg)](https://postimg.cc/jwC1fr53)
+[![Generador-De-Cartas.png](https://i.postimg.cc/59m5DrKb/Generador-De-Cartas.png)](https://postimg.cc/G9HsyX15)
